@@ -1,0 +1,16 @@
++----------------------------------------------+
+                _      |      _               
+                \`,  _/~\_  ,`/               
+     ______      \ \/ / \ \/ /      ______    
+    _\  \  \_   _\`(`@, ,@`)`/_   _/  /  /_   
+   _\  \ \ \ \_ \_( `` | `` )_/ _/ / / /  /_  
+  _\  \ \ \ \  \_\~\  /#\  /~/_/  / / / /  /_ 
+ _\  \ \ \ \ \   \\~\_```_/~//   / / / / /  /_
+ \________________\`` \_/ ``/________________/
++----------------------------------------------+
+   Your small village has been attacked by a
+   ruthless dragon. Your shield an sword were
+   stolen by its evil minions. Now it is your
+   duty to go out into the world and stop them
+   from causing more harm. 
++----------------------------------------------+
